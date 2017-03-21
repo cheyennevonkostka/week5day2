@@ -1,0 +1,43 @@
+ /*
+ Cheyenne von Kostka
+ 2.24.17
+ styles for pear
+
+ */
+
+h2 {
+	margin: 0 0 1em;
+}
+#home h2 {
+	margin: 0 0 .5em;
+}
+#home h3{
+	margin: .75em 0 .5em;
+	padding-top: .5em;
+	border-top: 2px solid blue;
+}
+h4 {
+	margin: .75em 0 .25em;
+}
+p {
+	margin: 0 0 .5em;
+}
+a {
+	margin-bottom: .5em;
+}
+q {
+	margin-bottom: .5em;
+	display: block;
+}
+cite {
+	margin: .5em 0;
+	display: block;
+	text-align: right;
+}
+
+ #fb{
+	 float: right;
+ }
+#pp {
+	float: right;
+}
